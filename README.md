@@ -1,2 +1,5 @@
-# dsci510-lab1
-8.27 lab 1
+**Name:** Ruixue Luo
+**Email:** ruixuelu@usc.edu
+**How to invoke:** 
+1. go to the directory where lab1.py is located. 
+2. Run `$ python lab1.py`
